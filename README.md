@@ -54,7 +54,7 @@ Recursos do Plano de Sistemas em Nuvem:
 
 ## Suporte
 
-Nossa equipe de suporte está disponível 24 horas por dia, 7 dias por semana, para ajudar com qualquer dúvida ou problema que você possa ter. Entre em contato conosco através do nosso site ou envie um e-mail para [support@hostable.com.br](mailto:support@hostable.com.br).
+Nossa equipe de suporte está disponível 24 horas por dia, 7 dias por semana, para ajudar com qualquer dúvida ou problema que você possa ter. Entre em contato conosco através do nosso site ou envie um e-mail para [contato@hostable.com.br](mailto:contato@hostable.com.br).
 
 ## Contribuição
 
