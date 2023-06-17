@@ -60,7 +60,15 @@ Nossa equipe de suporte está disponível 24 horas por dia, 7 dias por semana, p
 
 Se você encontrar algum problema ou tiver sugestões para melhorar nosso serviço, sinta-se à vontade para abrir uma issue no nosso repositório no GitHub. Estamos sempre abertos a contribuições da comunidade.
 
-Repositório GitHub: [https://github.com/seu-usuario/hostable](https://github.com/seu-usuario/hostable)
+Repositório GitHub: [https://github.com/icarojobs/hostable-hosting](https://github.com/icarojobs/hostable-hosting)
+
+## Changelog
+Para gerar o changelog, baseiem-se no seguinte comando:
+```bash
+git log --pretty=format:"%h - %s (%an)" --since="2023-06-16" --until="2023-06-17" | sort -f > CHANGELOG-TEMP.md
+```
+
+Realize as modificações necessárias no arquivo `CHANGELOG-TEMP.md` e só então traga suas modificações para o arquivo `CHANGELOG.md`.
 
 ## Licença
 
